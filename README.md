@@ -5,3 +5,4 @@ The steps involve analysing the columns of the dataset
 - Checking for null values
 - Checking skewness of various features
 - Checking for outliers using box-plot
+And plotting graphs to analyse the dataset and resolve certain errors
